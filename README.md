@@ -61,7 +61,7 @@ By selecting appropriate resistor and capacitor values, different delay interval
 | 5V–9V DC Supply                      | 1           |
 | Connecting Wires                     | As required |
 
-#⏱ **Timing Calculation Example**
+# ⏱ **Timing Calculation Example**
 
 For astable mode:
 
@@ -73,6 +73,9 @@ T ≈ 0.693 × (100k + 2×100k) × 100µF
 T ≈ 20.79 seconds (approximate cycle time)
 
 Actual timing may vary slightly due to capacitor tolerance.
+
+# 📷 **Schematic Diagram**
+![Traffic Light 555 Timer](images/traffic_light_schematic.png)
 
 # 🚀 **Applications**
 
