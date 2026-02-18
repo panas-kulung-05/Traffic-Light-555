@@ -75,7 +75,7 @@ T ≈ 20.79 seconds (approximate cycle time)
 Actual timing may vary slightly due to capacitor tolerance.
 
 # 📷 **Schematic Diagram**
-![Traffic Light 555 Timer](images/traffic_light_schematic.png)
+![Traffic Light 555 Timer](traffic_light_555.png)
 
 # 🚀 **Applications**
 
